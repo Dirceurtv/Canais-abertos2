@@ -40,7 +40,7 @@ http://15.235.15.230:14513/|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B)
 Português: http://15.235.15.230:14487/|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 MobileSafari/537
 
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="CANAIS ABERTOS" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RPC Curitiba
+#EXTINF:-1 tvg-id="Globo" tvg-name="CANAIS ABERTOS" tvg-logo="https://imgur.com/waZJG1M.png" group-title="CANAIS ABERTOS",Globo RPC Curitiba
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/505|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 MobileSafari/537
 
 
